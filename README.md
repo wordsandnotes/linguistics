@@ -11,7 +11,8 @@ Le logiciel se base sur :
   - un répertoire appelé "Dictionnaire" qui comprends des mots ayant soit des particularités phonétiques non prédictives ou des "petits mots" ou mots
   ayant échappé à l'analyse. 
  
-En cas de mauvaise transcription par le logiciel, nous avons ouvert un fichier qui vous permet d'ajouter le mot mal transcrit. 
+En cas de mauvaise transcription par le logiciel, vous pouvez ajouter dans l'onglet ISSUE une entrée et indiquer le mot mal transcrit. Nous 
+ferons un suivi régulier pour permettre au logiciel de s'améliorer. 
 Nous vous remercions sincèrement pour votre aide qui me permettra de mettre à jour plus facilement le logiciel et la base Dictionnaire. 
 
 3. Pour plus d'infos
