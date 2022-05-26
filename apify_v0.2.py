@@ -334,13 +334,9 @@ def apify(mot):
 
 
                         if mot[ch] == "t":
-                            
                                 if (ch == fin-1):
                                         ch+=1
                                         break
-        ##                        if (ch == fin-2):
-        ##                                ch+=1
-        ##                                break
                                 elif (mot[ch+1 : ch+6]=="echno"):
                                         concat+="tɛkno"
                                         ch+=6
@@ -559,6 +555,10 @@ def apify(mot):
                                 continue
                         if mot[ch]==" ":
                                 concat+=""
+                                ch+=1
+                                continue
+                        if mot[ch]==".":
+                                concat+="//"
                                 ch+=1
                                 continue
 
